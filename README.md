@@ -14,12 +14,15 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [x] (3pts) User can view the movie poster image for each movie.
 
+### REQUIRED App Walkthrough GIF
+<img src="http://g.recordit.co/szGGn432yc.gif" width=250><br>
+
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
-<img src="http://g.recordit.co/szGGn432yc.gif" width=250><br>
+### BONUS Walkthrough GIF
+<img src="http://g.recordit.co/2cnB9W5wYM.gif" width=250><br>
 
 ### Notes
 Encounterd a problem when installing the "AlamofireImage" pod due to my Terminal settings.
