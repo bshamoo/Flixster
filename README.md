@@ -19,7 +19,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="Yhttp://g.recordit.co/szGGn432yc.gif" width=250><br>
+<img src="http://g.recordit.co/szGGn432yc.gif" width=250><br>
 
 ### Notes
 Encounterd a problem when installing the "AlamofireImage" pod due to my Terminal settings.
