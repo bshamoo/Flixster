@@ -40,6 +40,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
                 // TODO: Reload your table view data
 
            }
+
         }
         task.resume()
     }

@@ -1,5 +1,5 @@
 //
-//  MovieDetailsViewController.swift
+//  MovieGridDetailsViewController.swift
 //  Flixster
 //
 //  Created by Brandon Shamoo on 1/16/21.
@@ -8,8 +8,8 @@
 import UIKit
 import AlamofireImage
 
-class MovieDetailsViewController: UIViewController {
-
+class MovieGridDetailsViewController: UIViewController {
+    
     @IBOutlet weak var backdropView: UIImageView!
     @IBOutlet weak var posterView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
@@ -58,5 +58,6 @@ class MovieDetailsViewController: UIViewController {
         
     }
      */
+
 
 }
